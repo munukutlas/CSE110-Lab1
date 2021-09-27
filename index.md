@@ -22,7 +22,7 @@ cout << "Looking forward to a great quarter!" << endl;
 ```
 
 My cousin recently got a dog. Her name is Mia and she's a five month old labradoodle. Here is a picture of her just for smiles:)
-![Mia in my backyard] (IMG_3115.HEIC)
+![Mia in my backyard](IMG_3115.HEIC)
 
 ### Hobbies
 I really enjoy baking! I generally do cookies, but I just started baking cakes this year. These are some of the cakes I've baked so far:
@@ -38,7 +38,7 @@ I love to read! My current favorite authors, in order, are:
 3. Rainbow Rowell
 4. John Grisham
 
-Last year when the pandemic started, I started painting for fun. Here are some of my favorite[paintings] (paintings.md).
+Last year when the pandemic started, I started painting for fun. Here are some of my favorite [paintings](paintings.md).
 
 I enjoy playing sports. In the past, I've played:
 - basketball
@@ -54,5 +54,5 @@ This year, I want to try to learn some new sports/skills. Here are some that I a
 - [ ] Climbing
 
 ## Contact Information
-[LinkedIn Page] (www.linkedin.com/in/sirisha-munukutla)
-[smunukutla@ucsd.edu] (smunukutla@ucsd.edu)
+[LinkedIn Page](www.linkedin.com/in/sirisha-munukutla)
+[smunukutla@ucsd.edu](smunukutla@ucsd.edu)
