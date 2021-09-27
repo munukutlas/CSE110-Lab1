@@ -5,6 +5,7 @@
   - [General Info](https://munukutlas.github.io/CSE110-Lab1/#general-information)
   - [Fun Facts](https://munukutlas.github.io/CSE110-Lab1/#fun-facts)
   - [Hobbies](https://munukutlas.github.io/CSE110-Lab1/#hobbies)
+    - [Paintings](paintings.md)
 - [Contact Me](https://munukutlas.github.io/CSE110-Lab1/#contact-information)
 
 ## About Me
