@@ -1,5 +1,15 @@
 # Sirisha Munukutla - User Page
+
+## Sections
+- [About Me](https://munukutlas.github.io/CSE110-Lab1/#about-me)
+  - [General Info](https://munukutlas.github.io/CSE110-Lab1/#general-information)
+  - [Fun Facts](https://munukutlas.github.io/CSE110-Lab1/#fun-facts)
+  - [Hobbies](https://munukutlas.github.io/CSE110-Lab1/#hobbies)
+- [Contact Me](https://munukutlas.github.io/CSE110-Lab1/#contact-information)
+
 ## About Me
+
+### General Information
 
 **Major:** Computer Science
 
