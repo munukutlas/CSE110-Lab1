@@ -1,10 +1,10 @@
-##Rainbow river painting earlier this year
-![painting](IMG_0030.heic)
+##Rainbow river acrylic painting earlier this year
+![painting](IMG_0030.jpg)
 
-##Sun/moon painting from a class with an artist earlier this year:
+##Sun/moon acrylic painting from a class with an artist earlier this year:
 ![painting](IMG_0231.JPG)
 
-##Three part series I painted for a friend's birthday gift:
+##Three part watercolor series I painted for a friend's birthday gift:
 
 ###Afro art inspired painting
 ![painting](IMG_3321.JPG)

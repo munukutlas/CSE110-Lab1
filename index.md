@@ -22,7 +22,7 @@ cout << "Looking forward to a great quarter!" << endl;
 ```
 
 My cousin recently got a dog. Her name is Mia and she's a five month old labradoodle. Here is a picture of her just for smiles:)
-![Mia in my backyard](IMG_3115.HEIC)
+![Mia in my backyard](IMG_3115.jpg)
 
 ### Hobbies
 I really enjoy baking! I generally do cookies, but I just started baking cakes this year. These are some of the cakes I've baked so far:
