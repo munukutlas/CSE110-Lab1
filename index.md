@@ -1,11 +1,11 @@
 # Sirisha Munukutla - User Page
 
 This year, I want to try to learn some new sports/skills. Here are some that I am interested in trying on campus:
-- [X] Aerial silks
-- [ ] Ultimate frisbee
-- [ ] Tennis
-- [ ] Badminton
-- [ ] Climbing
+* [X] Aerial silks
+* [ ] Ultimate frisbee
+* [ ] Tennis
+* [ ] Badminton
+* [ ] Climbing
 
 ## Sections
 - [About Me](https://munukutlas.github.io/CSE110-Lab1/#about-me)
