@@ -58,7 +58,7 @@ I enjoy playing sports. In the past, I've played:
 - soccer
 
 This year, I want to try to learn some new sports/skills. Here are some that I am interested in trying on campus:
-- [ ] Aerial silks
+- [x] Aerial silks
 - [ ] Ultimate frisbee
 - [ ] Tennis
 - [ ] Badminton
