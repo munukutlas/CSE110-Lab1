@@ -1,19 +1,11 @@
 # Sirisha Munukutla - User Page
 
-This year, I want to try to learn some new sports/skills. Here are some that I am interested in trying on campus:
-* [X] Aerial silks
-* [ ] Ultimate frisbee
-* [ ] Tennis
-* [ ] Badminton
-* [ ] Climbing
-
 ## Sections
 - [About Me](https://munukutlas.github.io/CSE110-Lab1/#about-me)
   - [General Info](https://munukutlas.github.io/CSE110-Lab1/#general-information)
   - [Fun Facts](https://munukutlas.github.io/CSE110-Lab1/#fun-facts)
   - [Hobbies](https://munukutlas.github.io/CSE110-Lab1/#hobbies)
     - [Paintings](https://munukutlas.github.io/CSE110-Lab1/paintings.html)
-- [Contact Me](https://munukutlas.github.io/CSE110-Lab1/#contact-information)
 
 ## About Me
 
@@ -71,7 +63,4 @@ This year, I want to try to learn some new sports/skills. Here are some that I a
 - [ ] Badminton
 - [ ] Climbing
 
-## Contact Information
-[LinkedIn Page](www.linkedin.com/in/sirisha-munukutla)
-
-[smunukutla@ucsd.edu](smunukutla@ucsd.edu)
+I used this [link](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) as a reference to write this page.
