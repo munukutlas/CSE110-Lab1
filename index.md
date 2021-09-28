@@ -64,3 +64,8 @@ This year, I want to try to learn some new sports/skills. Here are some that I a
 - [ ] Climbing
 
 I used this [link](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) as a reference to write this page.
+
+###Contact Information
+
+[LinkedIn](www.linkedin.com/in/sirisha-munukutla)
+Email: smunukutla@ucsd.edu
